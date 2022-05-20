@@ -30,8 +30,8 @@ Os usuários devem:
 
 ### Links
 
-- Solução: [GitHub Repo](https://github.com/lucasfs022/Number-Guesser)
-- Live Site URL: [GitHub live site](https://lucasfs022.github.io/Number-Guesser/)
+- Solução: [GitHub Repo](https://github.com/lucasfs022/Calculadora)
+- Live Site URL: [GitHub live site](https://lucasfs022.github.io/Calculadora/)
 
 ## Processo
 
